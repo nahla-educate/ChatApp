@@ -1,5 +1,5 @@
 # ChatApp
 
-##Features
+## Features
 Login + Signup using Jwt token
 websocket connecting
